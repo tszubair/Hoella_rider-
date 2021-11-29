@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "651083239628",
+    "project_id": "hoella-b007b",
+    "storage_bucket": "hoella-b007b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651083239628:android:c224a175f2045a4a757269",
+        "android_client_info": {
+          "package_name": "com.hoella.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651083239628-aietv83gt5pp27t790fo8sdq7e46h6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWA6DSV1plai4NLcfIyt-QqKoCT03rPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651083239628-aietv83gt5pp27t790fo8sdq7e46h6ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651083239628:android:61a3ba41f2632396757269",
+        "android_client_info": {
+          "package_name": "com.hoella.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651083239628-aietv83gt5pp27t790fo8sdq7e46h6ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWA6DSV1plai4NLcfIyt-QqKoCT03rPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651083239628-aietv83gt5pp27t790fo8sdq7e46h6ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
